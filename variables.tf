@@ -1,6 +1,6 @@
 #############################
 
-variable "aviatrix" {default = True}
+variable "aviatrix_var" {default = "placeholder"}
 
 variable "domain_name_1" {}
 
