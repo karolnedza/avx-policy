@@ -1,6 +1,6 @@
 #############################
 
-variable "aviatrix_var" {default = "placeholder"}
+variable "vcs_repository" {}
 
 variable "domain_name_1" {}
 
